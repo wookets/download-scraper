@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "0.0.1",
+  "description": "An example of scraping two websites and comparing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wookets/web-scraper.git"
+  },
+  "author": "wookets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wookets/web-scraper/issues"
+  },
+  "homepage": "https://github.com/wookets/web-scraper#readme",
+  "dependencies": {
+    "lodash": "4.15.0",
+    "x-ray": "2.3.0"
+  }
+}
