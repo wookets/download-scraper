@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/wookets/web-scraper#readme",
   "dependencies": {
-    "lodash": "4.15.0",
-    "x-ray": "2.3.0"
+    "lodash": "4.17.10",
+    "x-ray": "2.3.2"
   }
 }
